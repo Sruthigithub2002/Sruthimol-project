@@ -1,0 +1,68 @@
+
+.sec1{
+    background-color: rgb(224, 214, 217);
+   height: 40px;
+}
+.inbox{
+    margin-left: 0px;
+}
+.sec2{
+    background-color: rgb(246, 137, 170);
+    height: 400px;
+}
+.box{
+    text-align:left;
+}
+.inbox1{
+    text-align: center;
+    padding: 10px;
+}
+.inbox2{
+    text-align: left;
+    margin-top: 70px;
+}
+.btn1{
+    border-radius: 0px;
+    background-color: rgb(235, 60, 34);
+    border-style: none;
+    color: white;
+}
+.ex{
+    font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.shop{
+    color: rgb(243, 44, 44);
+}
+.gut{
+    font-family:  sans-serif;
+    font-weight: bold;
+}
+.on{
+    font-size: 13px;
+}
+.inbox3,.inbox4,.inbox5,.inbox6{
+    margin-top: 50px;
+}
+.free{
+    font-weight: bold;
+}
+.inbox7{
+    text-align: center;
+}
+.pop{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: rgb(247, 102, 145) ;
+    margin-top: 15px;
+}
+.meg{
+    font-family:Tahoma, sans-serif;
+}
+.mega{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+}
+.home{
+
+}
